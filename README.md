@@ -18,3 +18,5 @@ Este proyecto trata sobre la investigación de los Femicidios en Argentina. Los 
   - First one contains detailed information on the project and is available with .docx extension
   
   - The second file, which can be opened with any tools that supports .pbix format, shows a KPI with the corresponding data visualization. 
+
+_This project is available in Spanish only_
